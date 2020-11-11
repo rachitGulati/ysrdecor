@@ -1,0 +1,17 @@
+# Base configs
+baseurl: "https://ysrdecor.com"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "XXXX"
+
+# UI configs
+title: "YSR Decor"
+subtitle: "See the world through my eyes!"
+author: "YSR Decor"
+header:
+ title: "Wallpapers"
+ subtitle: "by YSR Decor"
+footer:
+ name: "Hey there, we are YSR Decor"
+ bio: "We are specialised in imported wallpapers"
+web_design: "YSR Decor"
